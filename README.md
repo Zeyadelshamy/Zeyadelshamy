@@ -92,19 +92,12 @@
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"><b> GitHub Contribution Graph</b>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefaymanmohamed&custom_title=Youssef's%20Contribution%20Graph&hide_border=true&theme=react-dark">
-  </a>
-</p>
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefaymanmohamed&show_icons=true&theme=dark&locale=en&layout=compact" alt="youssefaymanmohamed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadelshamy&show_icons=true&theme=dark&locale=en&layout=compact" alt="Zeyadelshamy" />
 </p>
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"><b> Most Significant Projects</b>
-
+<!--
 <p align="left">
   <a href="https://github.com/youssefaymanmohamed/NismoGen-Chatbot" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefaymanmohamed&repo=NismoGen-Chatbot&theme=dark" alt="Intelligent Chatbot using RAG" />
@@ -119,7 +112,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefaymanmohamed&repo=doggy&theme=dark" alt="Doggy Quadruped Robot" />
   </a>
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/youssefaymanmohamed/?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-More%20Projects-000?style=for-the-badge&logo=github&logoColor=white">
