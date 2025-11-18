@@ -18,7 +18,7 @@
 - **Enthusiastic about NLP and Machine Learning and Computer Vision**
 - **Always exploring new technologies and improving my skills**
 - **Always learning new things**
-  <!--- **I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1hH650UWMiHQSpDtqlWH_OgSHV-dHU4nb/view?usp=sharing)** -->
+- **I’m currently open for an intern or a new job opportunity**
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
 
