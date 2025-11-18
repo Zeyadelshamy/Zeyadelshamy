@@ -5,20 +5,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Graduate;Intelligent+Systems+Engineer,;Active+Learner/Researcher/Ai+enthusiast,;Loves+to+learn+new+stuff..<3">
   </a>
 </p>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youssefaymanmohamed&color=blue" alt="youssefaymanmohamed" />
 </p>
-
+--1
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="7.5%"> About Me
 
-- **Passionate about Artificial Intelligence, Intelligent systems , Robotics and Automotive **
+- **Passionate about Artificial Intelligence, Intelligent systems,Robotics and Automotive **
 - **Currently Pursing a Master degeree in AI for Smart Sensor and Actuator in Germany**
 - **Enthusiastic about NLP and Machine Learning and Computer Vision**
 - **Always exploring new technologies and improving my skills**
 - **Always learning new things**
-- **I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1hH650UWMiHQSpDtqlWH_OgSHV-dHU4nb/view?usp=sharing)**
+  <!--- **I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1hH650UWMiHQSpDtqlWH_OgSHV-dHU4nb/view?usp=sharing)** -->
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
 
