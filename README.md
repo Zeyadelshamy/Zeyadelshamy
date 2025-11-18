@@ -78,14 +78,11 @@
 
 ## Connect with Me
 
-  <a href="https://www.linkedin.com/in/youssefaymanmohamed/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef ayman" height="30" width="40" />
+  <a href="https://https://www.linkedin.com/in/zeyad-elshamy-5166a3332//" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zeyad elshamy" height="30" width="40" />
 
-  <a href="https://www.facebook.com/spooki210" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef ayman" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/xxyoussefaymanxx" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxyoussefaymanxx" height="30" width="40" />
+  <a href="https://https://www.instagram.com/zeyaddmagdy/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Zeyadelshamy" height="30" width="40" />
   </a>
 </p>
 
