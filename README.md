@@ -18,7 +18,7 @@
 - 🤖 Experienced in **Machine Learning, Computer Vision, NLP**, and **Robotics projects** including humanoid robots and autonomous systems.  
 - 🌱 Lifelong learner exploring **cutting-edge AI technologies**.  
 - 📄 **Published research**: "RAFEQI: Cost-Effective Personal Assistant Robot", RIMC, 2024.  
-- 💼 Open to **internships or collaborative projects** in AI, ML, and Robotics.
+- 💼 Open to **Working Student & Part time Postions, internships or collaborative projects** in AI, ML, and Robotics.
 
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
