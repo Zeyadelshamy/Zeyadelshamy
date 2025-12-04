@@ -32,28 +32,6 @@
 </p>
 
 
-<p align="center">
-  🌍 Based in Germany &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 AI & Robotics Engineer &nbsp;&nbsp;|&nbsp;&nbsp; 📄 <a href="CV.pdf">Download CV</a>
-</p>
-
-<p align="center">
-  🔹 <strong>Core Areas:</strong> AI | Machine Learning | Computer Vision | NLP | Robotics  
-  🔹 <strong>Currently:</strong> M.Eng. in AI for Smart Sensors & Actuators  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Intelligent%20Systems-blue?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/ML-Computer%20Vision-orange?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Robotics-Humanoid%20Robot-green?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/NLP-Language%20Processing-purple?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/IoT-Sensors%20%26%20Actuators-red?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeyadelshamy&color=blue" alt="Profile Views" /> 
-</p>
-
-
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="7.5%"> About Me
 
 - 🚀 **AI & Robotics Engineer** passionate about Intelligent Systems, Autonomous Robotics, and Smart Sensors.  
