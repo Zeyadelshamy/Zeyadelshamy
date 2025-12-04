@@ -1,13 +1,34 @@
-<h1 align="center"><b>Hi, I'm Zeyad Elshamy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hi, I'm Zeyad Elshamy</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Graduate;Intelligent+Systems+Engineer,;Active+Learner/Researcher/Ai+enthusiast,;Loves+to+learn+new+stuff..<3">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00ffff&size=28&center=true&vCenter=true&width=650&height=100&lines=AI+Graduate;Intelligent+Systems+Engineer;Active+Learner+%2F+Researcher+%2F+AI+Enthusiast;Passionate+about+Robotics+and+Machine+Learning" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeyadelshamy&color=blue" alt="Zeyadelshamy" />
+  🌍 Based in Germany &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 AI & Robotics Engineer &nbsp;&nbsp;|&nbsp;&nbsp; 📄 <a href="CV.pdf">Download CV</a>
+</p>
+
+<p align="center">
+  🔹 <strong>Core Areas:</strong> AI | Machine Learning | Computer Vision | NLP | Robotics  
+  🔹 <strong>Currently:</strong> M.Eng. in AI for Smart Sensors & Actuators  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Intelligent%20Systems-blue?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/ML-Computer%20Vision-orange?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Robotics-Humanoid%20Robot-green?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/NLP-Language%20Processing-purple?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/IoT-Sensors%20%26%20Actuators-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeyadelshamy&color=blue" alt="Profile Views" /> 
 </p>
 
 
@@ -17,7 +38,7 @@
 - 🎓 Currently pursuing a **M.Eng. in AI for Smart Sensors & Actuators** in Germany.  
 - 🤖 Experienced in **Machine Learning, Computer Vision, NLP**, and **Robotics projects** including humanoid robots and autonomous systems.  
 - 🌱 Lifelong learner exploring **cutting-edge AI technologies**.  
-- 📄 **Published research**: "RAFEQI: Cost-Effective Personal Assistant Robot", RIMC, 2024.  
+- 📄  **Published research**: [“RAFEQI: Cost-Effective Personal Assistant Robot”](RAFEQI.pdf), RIMC, 2024.  
 - 💼 Open to **Working Student & Part time Postions, internships or collaborative projects** in AI, ML, and Robotics.
 
 
@@ -77,6 +98,28 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-AWS/Other-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 🌐 Languages
+- Arabic: Native  
+- English: Fluent (C1)  
+- German: Beginner (A1–A2)
+  
+## 🏆 Achievements & Certifications
+
+### 🎓 Academic & Research
+- 📄 **Publication:** [RAFEQI: Design and Implementation of a Cost-Effective Personal Assistant Robot](https://apc.aast.edu/ojs/index.php/RIMC/article/view/RIMC.2025.02.1.1154) RIMC, AASTMT, 2024  
+- 🤖 **Graduation Project:** Developed **RAFEQI Humanoid Robot**, capable of autonomous operations using AI for **Computer Vision**, **NLP**, and **Kinematics**.  
+
+### 🏅 Competitions & Participation
+- 🏁 **RoboCup Junior Egypt 2022** – Rescue Line Category Participant  
+- 🙌 **Volunteer:** Organisation Committee, ICPC Final Competition, Egypt, 2023  
+- 🛠 **Member:** Hardware Committee, AAST Robotics Club, Egypt, 2021–2024  
+
+### 🏫 Training & Certifications
+- ☁️ **Introduction to Cloud 101** – AWS Training and Certificate, 2024  
+- 🤖 **Machine Learning Foundations** – AWS Training and Certificate, 2024  
+- 🧠 **Artificial Intelligence and Applications** – Zewail City of Science and Technology, 2023  
+- 🎓 **Summer School in Computer Science and AI** – Autonomous University of Barcelona (UAB), 2022
+
 
 ## 📫 Connect with Me
 
@@ -93,7 +136,17 @@
   <a href="https://www.instagram.com/zeyaddmagdy/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download CV"/>
+  </a>
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyadelshamy&theme=dark&hide_border=false" />
+</p>
+
+
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"><b> GitHub Contribution Graph</b>
 
