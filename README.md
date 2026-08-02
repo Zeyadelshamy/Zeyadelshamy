@@ -320,29 +320,6 @@
 </p>
 
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyadelshamy&layout=compact&theme=dark" />
-
-</p>
-
-
-
-
-
-<p align="center">
-
-<a href="https://github.com/Zeyadelshamy?tab=repositories">
-
-<img src="https://img.shields.io/badge/-More%20Projects-000?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</p>
-
-
-
-
 ## 🤖 AI Journey
 
 
