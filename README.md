@@ -235,15 +235,6 @@
   - Autonomous Decision Making
 
 
-- 🧠 **AI Agent Development:**  
-  Developed a **RAG Document Intelligence Agent** capable of:
-  - Processing multiple document formats
-  - Creating semantic embeddings
-  - Using Vector Database retrieval
-  - Answering user queries with LLM-based reasoning
-
-
-
 ## 🏅 Competitions & Participation
 
 
@@ -337,112 +328,6 @@
 
 
 
-
-# 🚀 Most Significant Projects
-
-
-## 🤖 RAG Document Intelligence Agent
-
-<a href="https://github.com/Zeyadelshamy/rag_document_agent">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyadelshamy&repo=rag_document_agent&theme=dark" />
-
-</a>
-
-
-**Description:**
-
-An AI-powered document assistant using Retrieval-Augmented Generation (RAG).
-
-Features:
-
-- 📄 Supports multiple document formats:
-  - PDF
-  - DOCX
-  - PPTX
-  - XLSX
-  - CSV
-  - TXT
-
-- 🧠 Semantic document understanding using embeddings
-
-- 🔎 Vector similarity search using ChromaDB
-
-- 🤖 LLM-based question answering
-
-- 🔗 Built with:
-  - LangChain
-  - RAG Architecture
-  - Vector Databases
-  - Python
-
-
-
-
----
-
-
-## 🧠 Career Advisor AI Agent
-
-
-<a href="https://github.com/Zeyadelshamy">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyadelshamy&repo=career_advisor_agent&theme=dark" />
-
-</a>
-
-
-**Description:**
-
-An intelligent career guidance agent designed to analyze user profiles and provide personalized recommendations.
-
-Technologies:
-
-- Large Language Models
-- Prompt Engineering
-- AI Agent Workflow
-- Natural Language Processing
-
-
-
-
----
-
-
-## 🤖 RAFEQI Humanoid Personal Assistant Robot
-
-
-<a href="https://github.com/Zeyadelshamy">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyadelshamy&repo=RAFEQI&theme=dark" />
-
-</a>
-
-
-**Description:**
-
-Graduation project: A cost-effective humanoid personal assistant robot.
-
-Implemented:
-
-- Computer Vision
-- NLP
-- Speech Interaction
-- Robot Kinematics
-- Motion Control
-- Embedded AI Systems
-
-
-Published:
-
-**RAFEQI: Design and Implementation of a Cost-Effective Personal Assistant Robot**
-
-RIMC Journal, AASTMT, 2024
-
-
-
-
----
 
 
 <p align="center">
