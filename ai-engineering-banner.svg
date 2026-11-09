@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Zeyad Elshamy AI Engineering</title><desc id="desc">Dark blue technology banner showing AI agents, RAG, APIs and machine learning as connected nodes</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081223"/><stop offset="0.55" stop-color="#102342"/><stop offset="1" stop-color="#10354b"/></linearGradient>
+ <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7291ad" opacity=".22"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+ </defs>
+ <rect width="1200" height="340" fill="url(#bg)" rx="18"/><rect width="1200" height="340" fill="url(#dots)" rx="18"/>
+ <circle cx="950" cy="162" r="121" fill="#19c0ff" opacity=".07" filter="url(#glow)"/>
+ <g font-family="Arial,Helvetica,sans-serif">
+ <rect x="57" y="47" width="156" height="29" rx="14" fill="#153e56" stroke="#277c9b"/>
+ <text x="135" y="66" font-size="13" fill="#a8e9fc" text-anchor="middle" font-weight="bold" letter-spacing="1.2">AI ENGINEER</text>
+ <text x="58" y="139" fill="#f0f7ff" font-size="54" font-weight="700">Zeyad Elshamy</text>
+ <rect x="58" y="154" width="438" height="4" rx="2" fill="url(#a)"/>
+ <text x="59" y="201" fill="#bdcfe1" font-size="22">LLM Applications  /  Agentic AI  /  Machine Learning</text>
+ <text x="59" y="244" fill="#74d8f8" font-size="17">Python  •  LangGraph  •  FastAPI  •  MCP  •  RAG</text>
+ <text x="59" y="294" fill="#90a9be" font-size="15">Engineering intelligent systems that connect models to real tools</text>
+ </g>
+ <g stroke="#48c3e6" stroke-width="2" opacity=".6" fill="none"><path d="M785 83L906 140L1026 76M906 140L1053 241M906 140L784 255M1026 76L1110 144M784 255L1053 241"/></g>
+ <g fill="#122a42" stroke="#4bd4f3" stroke-width="2"><circle cx="785" cy="83" r="31"/><circle cx="906" cy="140" r="53"/><circle cx="1026" cy="76" r="35"/><circle cx="1053" cy="241" r="37"/><circle cx="784" cy="255" r="37"/><circle cx="1110" cy="144" r="27"/></g>
+ <g fill="#e3f8ff" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="bold"><text x="785" y="87" font-size="12">API</text><text x="906" y="138" font-size="18">AI</text><text x="906" y="158" font-size="15">AGENT</text><text x="1026" y="80" font-size="13">MCP</text><text x="1053" y="245" font-size="14">RAG</text><text x="784" y="259" font-size="14">ML</text><text x="1110" y="148" font-size="10">A2A</text></g>
+</svg>
